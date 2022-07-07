@@ -1,0 +1,12 @@
+An intuitive explanation of convolutional neural networks https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+All about autoencoders https://www.youtube.com/watch?v=3jmcHZq3A5s&ab_channel=WelcomeAIOverlords
+A Friendly introduction to convluitional neural networks and image recognition https://www.youtube.com/watch?v=2-Ol7ZB0MmU&t=317s&ab_channel=Serrano.Academy
+Fundamentals of Deep Learning - Introduction to recurrentl neural networks  https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/
+
+
+Depth Links
+
+Mustread tutorail when starting journey with Deep Learning https://blog.skygate.io/a-must-read-tutorial-when-you-are-starting-your-journey-with-deep-learning-5fa4da071510
+Reinforcement Learning Explained https://www.altexsoft.com/blog/datascience/reinforcement-learning-explained-overview-comparisons-and-applications-in-business/?utm_source=DataScienceCentral&utm_medium=referral
+Recurrent Neural Networks Ep 9 - Autoencoder Explained https://www.youtube.com/watch?v=_aCuOwF1ZjU&t=2s
+Restricted Botlzmann Machines https://www.youtube.com/watch?v=puux7KZQfsE
